@@ -7,3 +7,7 @@ x = 10
 y = 20
 print(x=y)
 ```
+
+- [ ] Task 1
+- [ ] Task 2
+- [x] Finished Task 
